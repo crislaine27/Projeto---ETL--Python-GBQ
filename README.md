@@ -20,5 +20,5 @@ Este projeto foi desenvolvido para a disciplina de Extração, Transformação e
 
 # Tecnologias utilizadas
 - Python
-- Google Cloud Pataform
+- Google Cloud Plataform
 
