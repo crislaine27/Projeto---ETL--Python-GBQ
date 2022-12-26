@@ -1,4 +1,4 @@
-# Projeto de ETL utilizando Python e Google Biq Query
+# Projeto de ETL utilizando Python e Google Big Query
 
 
 Este projeto foi desenvolvido para a disciplina de Extração, Transformação e Gestão de Dados.
